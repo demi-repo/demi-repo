@@ -29,7 +29,7 @@
         <br>React.js
       </td>
       <td align="center" width="96">
-        <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="65" width="65 />
+        <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="65" width="65" />
         <br>Next.js
       </td>
     </tr>
