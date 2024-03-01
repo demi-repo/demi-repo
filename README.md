@@ -21,7 +21,7 @@
         <br>Golang
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
         <br>Node.js
       </td>
       <td align="center" width="96">
