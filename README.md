@@ -17,7 +17,7 @@
   <table align="center">
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/golang-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=golang" alt="Golang" width="65" height="65" />
         <br>Golang
       </td>
       <td align="center" width="96">
@@ -34,15 +34,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-## Languages and Tools
-
-<div align="center">
-<a href="https://golang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/golang-original.svg" alt="Golang" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React.js" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="25" /></a>  
 </div>
 
 ## 📊 GitHub Stats
