@@ -45,6 +45,6 @@
 
 ## Reach out to me
 
-To contact me, you can reach out via email at developefullstack420@gmail.com
+To contact me, you can reach out via email at cdadev24@gmail.com
 
 ![Animated GIF](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
