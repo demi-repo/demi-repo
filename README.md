@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-# HELLO! 👋 I am a Full Stack Developer!
+# Hi 👋, I am a Full Stack Developer!
 
 <img src="https://komarev.com/ghpvc/?username=demi-repo&label=Profile%20views&color=0e75b6&style=flat" alt="demi-repo" />
 
