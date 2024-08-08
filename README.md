@@ -1,13 +1,13 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-# Hi 👋, I am a Full Stack Developer!
+# Hi 👋, I am a Senior Full Stack Developer!
 
 <img src="https://komarev.com/ghpvc/?username=demi-repo&label=Profile%20views&color=0e75b6&style=flat" alt="demi-repo" />
 
 ## 👨‍💻 About me 
 
 <div style="padding: 0 20px;" >
-Hello! 👋 I'm an accomplished Full Stack Developer with extensive experience in designing and building scalable, high-performance applications. My expertise encompasses the end-to-end development process, from initial concept and architecture to final implementation and deployment. I thrive in dynamic environments, consistently integrating innovative solutions to meet complex technical challenges and drive significant business value. With a proven track record of delivering robust and efficient systems, I excel in both independent and collaborative settings, ensuring that projects align with strategic goals and exceed stakeholder expectations.
+Hello! 👋 I'm an accomplished Senior Full Stack Developer with extensive experience in designing and building scalable, high-performance applications. My expertise encompasses the end-to-end development process, from initial concept and architecture to final implementation and deployment. I thrive in dynamic environments, consistently integrating innovative solutions to meet complex technical challenges and drive significant business value. With a proven track record of delivering robust and efficient systems, I excel in both independent and collaborative settings, ensuring that projects align with strategic goals and exceed stakeholder expectations.
 </div>
 
 ## 🔧 Technical Stack
