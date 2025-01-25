@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-# Hi 👋, I am a Senior Full Stack Blockchain Developer!
+# Hi 👋, I am a Senior Full Stack Developer!
 
 <img src="https://komarev.com/ghpvc/?username=demi-repo&label=Profile%20views&color=0e75b6&style=flat&base=1500" alt="demi-repo" />
 
