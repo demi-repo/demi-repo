@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-# Hi 👋, I am a Senior Full Stack Developer!
+# Hi 👋, I am a Senior Full Stack Blockchain Developer!
 
 <img src="https://komarev.com/ghpvc/?username=demi-repo&label=Profile%20views&color=0e75b6&style=flat&base=1500" alt="demi-repo" />
 
@@ -288,16 +288,6 @@ Hello! 👋 I'm an accomplished Senior Full Stack Developer with extensive exper
       </tr>
    </table>
   </div>
-
-## 🌟 Overview
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=demi-repo&show_icons=true&locale=en" alt="demi-repo" />
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demi-repo&" alt="demi-repo" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=demi-repo" alt="demi-repo" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=demi-repo&show_icons=true&locale=en&layout=compact" alt="demi-repo" /></td>
 
 ## 🎯 Conclusion
 
