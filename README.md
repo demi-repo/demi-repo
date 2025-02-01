@@ -1,34 +1,47 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-# Hi 👋, I am a Senior Full Stack Developer!
+# HELLO! 👋 I am a Senior Full Blockchain Stack Developer!
+
+<img src="https://komarev.com/ghpvc/?username=demi-repo&label=Profile%20views&color=0e75b6&style=flat" alt="demi-repo" />
+
 ## 👨‍💻 About me 
 
 <div style="padding: 0 20px;" >
-Hello! 👋 I'm an accomplished Senior Full Stack Developer with extensive experience in designing and building scalable, high-performance applications. My expertise encompasses the end-to-end development process, from initial concept and architecture to final implementation and deployment. I thrive in dynamic environments, consistently integrating innovative solutions to meet complex technical challenges and drive significant business value. With a proven track record of delivering robust and efficient systems, I excel in both independent and collaborative settings, ensuring that projects align with strategic goals and exceed stakeholder expectations.
+Hello! 👋 I'm an accomplished Senior Full Stack Blockchain Developer with extensive experience in designing and building scalable, high-performance applications. My expertise encompasses the end-to-end development process, from initial concept and architecture to final implementation and deployment. I thrive in dynamic environments, consistently integrating innovative solutions to meet complex technical challenges and drive significant business value. With a proven track record of delivering robust and efficient systems, I excel in both independent and collaborative settings, ensuring that projects align with strategic goals and exceed stakeholder expectations.
 </div>
 
 ## 🔧 Technical Stack
 
-- Core Competencies: Expert in Next.js for fullstack development,
-  alongside strong proficiency in Python, PHP, and Ruby.
-- Frontend: Proficient with modern JavaScript frameworks like
-  React.js, Next.js, and Svelte.js, as well as HTML and CSS for
-  comprehensive frontend development.
-- Backend: Skilled in Node.js, Golang, Laravel, and Ruby on Rails for
-  creating efficient and reliable backend systems.
-- API Development: Advanced experience in REST API design and
-  development with various technologies.
-- Databases: Extensive experience with SQL, MySQL, PostgreSQL,
-  Redis, MongoDB, and Supabase.
-- Cloud Platforms: Proficient with AWS and GCP services for building
-  scalable cloud-native applications.
-- Tools: Experienced with Git for version control, Docker for
-  containerization, and various project management tools like Jira and
-  Confluence.
-- Automation & AI: Expertise in ChatGPT for creating bots and
-  automation solutions.
+- Blockchain Development: Proficient in Solidity for Ethereum smart contracts, Rust for Solana development, and Circom for zk-SNARKs.
+
+- Smart Contracts: Extensive experience with Solidity, Hardhat, Truffle, and Foundry for developing and testing Ethereum-based contracts.
+
+- Zero-Knowledge Proofs: Expertise in zk-SNARKs, zk-STARKs, and using Circom and snarkjs for privacy-preserving applications.
+
+- Decentralized Finance (DeFi): Knowledgeable in DEXs, yield farming, staking mechanisms, and liquidity pools.
+
+- Blockchain Frameworks: Hyperledger Fabric, Substrate for Polkadot, and Cosmos SDK.
+
+- Full Stack Web3 Development: Strong expertise in integrating blockchain with frontend frameworks like Next.js, React.js, and Svelte.js using Web3.js, Ethers.js, and Viem.
+
+- Traditional Backend: Skilled in Node.js, Golang, FastAPI, and Laravel for creating scalable and efficient backend systems.
+
+- Database Management: Extensive experience with SQL, MySQL, PostgreSQL, Redis, MongoDB, and Supabase.
+
+- Cloud & DevOps: Proficient with AWS, GCP, Kubernetes, and Docker for scalable cloud-native applications.
+
+- Security & Cryptography: Deep understanding of cryptographic principles, secure multi-party computation (MPC), and smart contract security audits.
 
 ## 💻 My technologies and tools
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-2AA5DC?style=for-the-badge&logo=hyperledger&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2DD?style=for-the-badge&logo=ipfs&logoColor=white)
+![OpenSea](https://img.shields.io/badge/OpenSea-2081E2?style=for-the-badge&logo=opensea&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+
   <div style="display: flex; align-items: center; font-size: 8px">
     <table align="center">
       <tr>
@@ -288,4 +301,4 @@ Hello! 👋 I'm an accomplished Senior Full Stack Developer with extensive exper
 
 ## 🎯 Conclusion
 
-Driven by a passion for innovation and a commitment to excellence, I'm always eager to tackle new challenges and leverage my diverse skill set to create impactful solutions. If you're looking to collaborate or need expertise in full-stack development, feel free to connect. Let's build something amazing together! 🚀
+Driven by a passion for innovation and a commitment to excellence, I'm always eager to tackle new challenges and leverage my diverse skill set to create impactful solutions. If you're looking to collaborate or need expertise in full-stack blockchain development, feel free to connect. Let's build something amazing together! 🚀
