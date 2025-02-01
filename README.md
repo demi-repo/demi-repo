@@ -2,8 +2,6 @@
 
 # HELLO! 👋 I am a Senior Full Blockchain Stack Developer!
 
-<img src="https://komarev.com/ghpvc/?username=demi-repo&label=Profile%20views&color=0e75b6&style=flat" alt="demi-repo" />
-
 ## 👨‍💻 About me 
 
 <div style="padding: 0 20px;" >
@@ -38,6 +36,7 @@ Hello! 👋 I'm an accomplished Senior Full Stack Blockchain Developer with exte
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Hyperledger](https://img.shields.io/badge/Hyperledger-2AA5DC?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Cardano](https://img.shields.io/badge/Cardano-375B00?style=for-the-badge&logo=cardano&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2DD?style=for-the-badge&logo=ipfs&logoColor=white)
 ![OpenSea](https://img.shields.io/badge/OpenSea-2081E2?style=for-the-badge&logo=opensea&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
